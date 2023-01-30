@@ -29,7 +29,7 @@ Please use the link provided below to access the application. Otherwise, the use
 
 Please follow the link for the deployed application. 
 
-![The Code Text Editor](https://codetexteditor.herokuapp.com/)
+https://codetexteditor.herokuapp.com/
 
 When typing code or notes into the editor, the content will be saved when the browser is closed. Once the text editor is reopened, the saved data will be retrieved from IndexedDB. If the install button is pressed, an icon will become available on the user's desktop. Please note that this app can be used without an internet connection.
 

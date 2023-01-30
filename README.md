@@ -21,7 +21,7 @@ Please use the link provided below to access the application. Otherwise, the use
 
 - Run `npm i`
 
-- From the server folder, run `npm start`
+- Run `npm start`
 
 - Visit the localhost url: http//localhost:3000/
 

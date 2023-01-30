@@ -9,6 +9,13 @@
     "import/no-extraneous-dependencies": "off",
     "import/prefer-default-export": "off",
     "no-underscore-dangle": "off",
-    "no-restricted-globals": "off"
+    "no-restricted-globals": "off",
+    "parserOptions": {
+          "ecmaVersion": 2017
+      },
+  
+      "env": {
+          "es6": true
+      }
+  },
   }
-}
